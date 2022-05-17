@@ -4,9 +4,9 @@
         "Hash": 1278037829,
 		"Url": "https://raw.githubusercontent.com/EC-Cheats-AutoUpdate/EC-LoL-Beta/main/Files/Plugins.txt"
     },
-    {
-        "Name": "EC-Lib.bin",
-        "Hash": -706557457,
-		"Url": "https://raw.githubusercontent.com/EC-Cheats-AutoUpdate/EC-LoL-Beta/main/Files/EC-Lib/05162022-02.bin"
-    }
+  {
+    "Name": "EC-Lib.bin",
+    "Hash": 1505600128,
+    "Url": "https://raw.githubusercontent.com/EC-Cheats-AutoUpdate/EC-LoL-Beta/main/Files/EC-Lib/05162022-03.bin"
+  }
 ]
